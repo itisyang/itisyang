@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+我是itisyang
+
+- 🚀 技术栈:
+  ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&log=C++)
+  ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
+  ![Qt](https://img.shields.io/badge/-Qt-000000?style=plastic&logo=Qt)
+- 🌱 近期看书：《计算机视觉算法与应用》
+
+![](https://github-readme-stats.vercel.app/api?username=mayandev)
