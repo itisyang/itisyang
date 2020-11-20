@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 我是itisyang
 
 - 🚀 技术栈:
-  ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&log=C++)
+  ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c++)
   ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
   ![Qt](https://img.shields.io/badge/-Qt-000000?style=plastic&logo=Qt)
 - 🌱 近期看书：《计算机视觉算法与应用》
