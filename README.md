@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - 🌱 近期看书：《计算机视觉算法与应用》
 - 🔭 对新知识拥有热情，擅长快速上手新技术，高效进行软件开发。
 
-![](https://github-readme-stats.vercel.app/api?username=mayandev)
+![](https://github-readme-stats.vercel.app/api?username=itisyang)
