@@ -18,10 +18,8 @@ Here are some ideas to get you started:
 
 我是itisyang
 
-- 🚀 技术栈:
-  ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c++)
-  ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
-  ![Qt](https://img.shields.io/badge/-Qt-000000?style=plastic&logo=Qt)
+- 🚀 技术栈: ![Qt](https://img.shields.io/badge/-Qt-41CD52?style=plastic&logo=Qt) ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=C) ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python) 
 - 🌱 近期看书：《计算机视觉算法与应用》
+- 🔭 对新知识拥有热情，擅长快速上手新技术，高效进行软件开发。
 
 ![](https://github-readme-stats.vercel.app/api?username=mayandev)
