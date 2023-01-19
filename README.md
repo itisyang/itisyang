@@ -22,5 +22,4 @@ Here are some ideas to get you started:
 - 🌱 近期读书：《计算机视觉中的多视图几何》《计算机视觉算法与应用》《Python计算机视觉编程》
 - 🔭 对新知识、新领域拥有热情，擅长快速上手新技术，高效进行软件开发。
 
-![](https://github-readme-stats.vercel.app/api?username=itisyang)
-
+[![itisyang's GitHub stats](https://github-readme-stats.vercel.app/api?username=itisyang&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
